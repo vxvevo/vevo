@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="RU">
+<head>
+    <meta charset="utf-8">
+    <title>Rezume</title>
+</head>
+<body>
+
+<img src="https://pp.userapi.com/c846221/v846221923/d7184/qo7g0iJd4jo.jpg?ava=1" style="float:left">
+<p>
+     <pre>
+    *Valera Khan*
+      18 age
+      Businessman
+      Introvert
+      Sportsmen
+      Student of AlmaU
+
+     </pre>
+</p>
+<div>
+            <ul style="list-style: none">
+                <li>
+                    <a href="#">
+                        <p> <pre>   https://vk.com/venen0</pre> </p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+<div>
+            <ul style="list-style: none">
+                <li>
+                    <a href="#">
+                        <p> <pre>   https://www.instagram.com/</pre> </p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+</body>
+</html>
